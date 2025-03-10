@@ -1,4 +1,4 @@
-# structure-caving
+# structure-carving
 A structure carved building mesh simplification
 
 
