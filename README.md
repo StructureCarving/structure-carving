@@ -9,11 +9,12 @@ Three-dimensional building models are extensively utilized in domains such as sm
 ![image](https://github.com/user-attachments/assets/729950d5-898a-47e7-bb8f-3ebf960535b7)
 
 
-![image](https://github.com/user-attachments/assets/251c02bb-feee-46c8-847a-59e396613a71)
  Input city model
- 
+![image](https://github.com/user-attachments/assets/251c02bb-feee-46c8-847a-59e396613a71)
+
+Simplified model 
 ![image](https://github.com/user-attachments/assets/06e974df-dd36-463a-ace2-86f47225f88e)
-Simplified model
-                    
+
+ Lod model                    
 ![image](https://github.com/user-attachments/assets/5e6994d8-9863-4710-b74b-b0735386b5bd)
-   Lod model
+
