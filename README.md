@@ -19,5 +19,6 @@ Simplified model
 ![image](https://github.com/user-attachments/assets/5e6994d8-9863-4710-b74b-b0735386b5bd)
 
 MVS mesh reconstruction
-![image](https://github.com/user-attachments/assets/b4fda53e-f4d4-489c-8a24-e18606d49909)
+![image](https://github.com/user-attachments/assets/53d723a1-8d09-4133-8843-faaa33381e93)
+
 
